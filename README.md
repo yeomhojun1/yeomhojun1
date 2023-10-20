@@ -2,7 +2,7 @@
 
 ### 🎯 Introduction
 Hi, I'm Hojun Yeom!!<br/>
-I'm experienced with a wide range of back-end technologies, specialized primarily in JAVA.
+I am an adaptable individual who can thrive anywhere. I have a foundation in Java and I am ready to learn new languages.
 
 ### 🦸‍♂️ Profile
 Name : 염호준 (YeomHojun) <br/>
