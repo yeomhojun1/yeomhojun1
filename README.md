@@ -6,7 +6,7 @@ I am an adaptable individual who can thrive anywhere. I have a foundation in Jav
 
 ### 🦸‍♂️ Profile
 Name : 염호준 (YeomHojun) <br/>
-Email : ghwnswkd123@nate.com <br/>
+Email : ghwnswkd123@naver.com <br/>
 ## 💪 Tech Skills : 
 <a href="링크"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
