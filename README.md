@@ -1,13 +1,13 @@
-# Who am I ?
+# ❓︎ Who am I ?
 
-### Introduction
+### 🎯 Introduction
 Hi, I'm Hojun Yeom!!<br/>
 I'm experienced with a wide range of back-end technologies, specialized primarily in JAVA.
 
-### Profile
+### 🦸‍♂️ Profile
 Name : 염호준 (YeomHojun) <br/>
 Email : ghwnswkd123@nate.com <br/>
-## Tech Skills : 
+## 💪 Tech Skills : 
 <a href="링크"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
