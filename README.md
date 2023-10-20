@@ -1,16 +1,36 @@
-### Hi there 👋
+# Who am I ?
 
-<!--
-**yeomhojun1/yeomhojun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
+Hi, I'm Hojun Yeom!!<br/>
+I'm experienced with a wide range of back-end technologies, specialized primarily in JAVA.
 
-Here are some ideas to get you started:
+### Profile
+Name : 염호준 (YeomHojun) <br/>
+Email : ghwnswkd123@nate.com <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Skills :
+### Back-End
+- `Java`
+- `Spring` `Spring boot`
+- `JSP&SERVLET` `MyBatis`
+
+
+### Front-End
+- `HTML` `CSS`
+- `JavaScript`
+- `React`
+- `jQuery`, `Ajax`
+
+### DBMS
+- `Oracle`
+
+
+
+
+### Tools & Collaborations
+- `STS` `VsCode`
+-  `GitHub`
+-  `Notion`
+
+<br/>
