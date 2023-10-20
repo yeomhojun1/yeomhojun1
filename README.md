@@ -7,6 +7,8 @@ I am an adaptable individual who can thrive anywhere. I have a foundation in Jav
 ### 🦸‍♂️ Profile
 Name : 염호준 (YeomHojun) <br/>
 Email : ghwnswkd123@naver.com <br/>
+ <br/>
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeomhojun1)](https://github.com/anuraghazra/github-readme-stats)
 ## 💪 Tech Skills : 
 <a href="링크"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
@@ -19,7 +21,7 @@ Email : ghwnswkd123@naver.com <br/>
 <a href="링크"><img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=ORACLE&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/ECLIPSE IDE-2C2255?style=flat-square&logo=ECLIPSE IDE&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=flat-square&logo=VISUAL STUDIO&logoColor=white"/></a>
-
+ <br/> <br/>
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeomhojun1)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 <br/>
