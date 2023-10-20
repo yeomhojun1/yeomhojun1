@@ -7,7 +7,7 @@ I'm experienced with a wide range of back-end technologies, specialized primaril
 ### Profile
 Name : 염호준 (YeomHojun) <br/>
 Email : ghwnswkd123@nate.com <br/>
-
+<a href="링크"><img src="https://img.shields.io/badge/4B4B77?style=flat-square&logo=javascript&logoColor=F7DF1E"/></a>
 
 ## Tech Skills :
 ### Back-End
